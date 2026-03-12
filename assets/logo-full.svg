@@ -1,0 +1,12 @@
+<svg width="2400" height="800" viewBox="0 0 2400 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(40, 0)">
+    <path d="M400 210L530 285V435L400 510L270 435V285L400 210Z" fill="#FF5A00"/>
+    <path d="M400 210L530 285L400 360L270 285L400 210Z" fill="#FF7F3F"/>
+    <path d="M270 285L400 360V510L270 435V285Z" fill="#E65100"/>
+    <path d="M400 80L680 240V560L400 720L120 560V240L400 80Z" stroke="#FFFFFF" stroke-width="48" stroke-linejoin="round"/>
+    <path d="M400 400V720" stroke="#FFFFFF" stroke-width="48" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M120 240L400 400L680 240" stroke="#FFFFFF" stroke-width="48" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="840" y="400" font-family="'Inter', 'Helvetica Neue', sans-serif" font-weight="800" font-size="160" fill="#FFFFFF" letter-spacing="-0.02em">Institute of</text>
+  <text x="840" y="580" font-family="'Inter', 'Helvetica Neue', sans-serif" font-weight="800" font-size="160" fill="#FF5A00" letter-spacing="-0.02em">Digital Risk</text>
+</svg>

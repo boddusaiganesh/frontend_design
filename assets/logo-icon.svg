@@ -1,0 +1,15 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Solid Orange Core representing Risk & Data -->
+  <path d="M400 210L530 285V435L400 510L270 435V285L400 210Z" fill="#FF5A00"/>
+  <!-- Highlight on top face -->
+  <path d="M400 210L530 285L400 360L270 285L400 210Z" fill="#FF7F3F"/>
+  <!-- Shadow on left face -->
+  <path d="M270 285L400 360V510L270 435V285Z" fill="#E65100"/>
+  
+  <!-- Outer Framework representing Resilience and Structure -->
+  <path d="M400 80L680 240V560L400 720L120 560V240L400 80Z" stroke="#FFFFFF" stroke-width="48" stroke-linejoin="round"/>
+  <!-- Front pillar -->
+  <path d="M400 400V720" stroke="#FFFFFF" stroke-width="48" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Back / Side struts -->
+  <path d="M120 240L400 400L680 240" stroke="#FFFFFF" stroke-width="48" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
